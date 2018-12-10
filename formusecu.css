@@ -1,0 +1,31 @@
+@font-face {
+  font-family: "Bellota";
+  src: url("Bellota-Regular.otf"); }
+
+body {
+  background-image: -webkit-linear-gradient(135deg, #006db6, #15c5bd);
+  background-image: -o-linear-gradient(135deg, #006db6, #15c5bd);
+  background-image: linear-gradient(-45deg, #006db6, #15c5bd);
+  background-size: cover;
+  width: 100vw;
+  height: 100vh;
+  font-family: "Bellota";
+  color: #777777; }
+
+div.row {
+  background-color: #FFF;
+   }
+
+.bas {
+  padding-top: 30px;
+  padding-bottom: 60px;
+  margin-top: -30px;
+  background-color: #FFF; }
+
+.last {
+  margin-bottom: 10px; }
+
+.green-border-focus .form-control:focus {
+  border: 1px solid #0effb7;
+  -webkit-box-shadow: 0 0 0 0.2rem rgba(30, 255, 0, 0.247);
+  box-shadow: 0 0 0 0.2rem rgba(30, 255, 0, 0.247); }

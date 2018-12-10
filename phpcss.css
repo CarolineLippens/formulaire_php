@@ -1,0 +1,12 @@
+@font-face {
+    font-family: "Bellota";
+    src: url('Bellota-Regular.otf');
+}
+body{
+    background-image: linear-gradient(-45deg,rgb(0, 109, 182),#15c5bd);
+    background-size: cover;
+    font-size: 1.2em;
+    font-family: "Bellota";
+    width:100vw;
+    height:100vh;
+}
